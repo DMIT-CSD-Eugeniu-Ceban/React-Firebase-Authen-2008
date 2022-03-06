@@ -1,6 +1,6 @@
  import React from 'react'
  
-import {IoEllipsisVertical, IoMailOutline, IoNotificationsOutline, IoPersonOutline} from "react-icons/io5"
+import {IoEllipsisVertical, IoMailOutline, IoNotificationsOutline} from "react-icons/io5"
  
 
  import {AppBarStyles, AppBarItem, AppBarItemGroup, AppBarItems} from './styles'
